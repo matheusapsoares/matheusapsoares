@@ -1,5 +1,16 @@
 ## Olá, eu sou o Matheus!
-
+<div style="display: inline_block">
+<a href="malito:matheus.apsoares@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+ </a>
+<a href="https://www.linkedin.com/in/matheus-apsoares/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
+<a href="https://www.instagram.com/matsoaares/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<br><br>
+</div>
 
 <div align="center">
   <a href="https://github.com/matheusapsoares">
